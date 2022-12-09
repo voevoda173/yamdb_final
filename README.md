@@ -1,5 +1,7 @@
 ![yamdb workflow](https://github.com/voevoda173/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+[Работающий проект можно посмотреть тут](http://51.250.31.146/redoc/)
+
 # Проект YaMDb
 
 ## Описание
